@@ -12,3 +12,4 @@
 /tmp
 /node_modules
 Gemfile.lock
+config.bat
